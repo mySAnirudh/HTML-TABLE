@@ -1,0 +1,3 @@
+ <thead> - to create a separate table header.
+ <tbody> - to indicate the main body of the table.
+ <tfoot> - to create a separate table footer.
